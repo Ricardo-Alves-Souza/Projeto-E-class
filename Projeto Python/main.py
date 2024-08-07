@@ -1,0 +1,6 @@
+import automacao
+
+automacao.Automacao()
+
+
+
